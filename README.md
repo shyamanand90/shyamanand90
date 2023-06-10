@@ -1,6 +1,3 @@
 - 👋 Hi, I’m Shyamanand
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning responsive web design
-- 📫 I'm student of computer science
-
-
+- 👀 I am a computer science student at Gurugram University.Gurugram
+- 🌱 I’m currently learning Data Structures & Algorithms.
