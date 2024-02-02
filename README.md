@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Shyamanand
 - 👀 I am a computer science student at Gurugram University.Gurugram
-- 🌱 I’m currently learning Data Structures & Algorithms.
+- 🌱 I’m currently learning MERN Web Development.
